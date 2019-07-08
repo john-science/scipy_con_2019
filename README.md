@@ -6,7 +6,7 @@ I signed up for four tutorials:
 
 ## Monday, 8AM (Room 203) Modern Time Series Analysis
 
-There was no GitHub for that session, so I am doing it [here](https://github.com/theJollySin/scipy_con_2019/tree/master/modern_time_series_analysis).
+There was no GitHub for that session, so I am doing it [here](https://github.com/theJollySin/scipy_con_2019/tree/master/modern_time_series_analysis/README.md).
 
 
 ## Monday 1PM (Room 203) Bayesian Data Science: Probabilistic Programming
