@@ -8,6 +8,6 @@ Okay, I wanted to streamline this.  So you can just use this repo:
 
 And all the data and notebooks you need will be here:
 
-    ModernTimeSeriesAnalysis
+* [ModernTimerSeriesAnalysis](https://github.com/theJollySin/scipy_con_2019/tree/master/modern_time_series_analysis/ModernTimeSeriesAnalysis)
 
 
