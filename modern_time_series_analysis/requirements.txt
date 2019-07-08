@@ -17,7 +17,6 @@ mxnet==1.4.1
 numpy==1.14.6
 pandas==0.24.2
 patsy==0.5.1
-pkg-resources==0.0.0
 protobuf==3.8.0
 python-dateutil==2.8.0
 pytz==2019.1
