@@ -19,3 +19,12 @@ And all the data and notebooks you need will be [here](https://github.com/theJol
 6. [Stocks](ModernTimeSeriesAnalysis/DeepLearning/Stocks/6_Stocks_INSTRUCTOR.ipynb)
 
 
+## Notes
+
+Don't expect anything exciting here.  These are literally just my notes
+
+### 1. Structural Time Series
+
+* [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) models are old school, but if your machine learning toys don't do better than this, why bother?
+* [Kalman Filtering!](https://en.wikipedia.org/wiki/Kalman_filter) - Love me a Kalman Filter
+
