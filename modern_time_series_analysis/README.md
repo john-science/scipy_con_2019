@@ -33,8 +33,24 @@ And all the data and notebooks you need will be [here](https://github.com/theJol
 
 Don't expect anything exciting here.  These are literally just my notes
 
-### 1. Structural Time Series
+### Structural Time Series
 
 * [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) models are old school, but if your machine learning toys don't do better than this, why bother?
 * [Kalman Filtering!](https://en.wikipedia.org/wiki/Kalman_filter) - Love me a Kalman Filter
+
+### Machine Learning - Trees for Classification and Prediction
+
+* TODO
+
+### Machine Learning - Clustering
+
+* TODO
+
+### Deep Learning - Electric Use
+
+* TODO
+
+### Deep Learning - Stocks
+
+* TODO
 

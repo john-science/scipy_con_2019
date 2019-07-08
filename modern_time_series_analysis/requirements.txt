@@ -1,9 +1,9 @@
 absl-py==0.7.1
 astor==0.8.0
-cesium
+cesium==0.9.9
 certifi==2019.6.16
 chardet==3.0.4
-hmmlearn
+hmmlearn==0.2.2
 gast==0.2.2
 google-pasta==0.1.7
 graphviz==0.8.4
