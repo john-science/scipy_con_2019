@@ -33,22 +33,37 @@ And all the data and notebooks you need will be [here](https://github.com/theJol
 
 Don't expect anything exciting here.  These are literally just my notes
 
+
 ### Structural Time Series
 
 * [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) models are old school, but if your machine learning toys don't do better than this, why bother?
 * [Kalman Filtering!](https://en.wikipedia.org/wiki/Kalman_filter) - Love me a Kalman Filter
 
-### Machine Learning - Trees for Classification and Prediction
 
-* TODO
+### Machine Learning - Time Series Trees for Classification and Prediction
+
+* Most machine learning on time series uses tools that weren't designed for time series data. We always have to use other tools and "make 'em work".
+* Doctors and nurses to "feature detection" on "time series data" when they look at heart rates from ECGs. Everything old is new again.
+* We're going to cover [Random Forests](https://en.wikipedia.org/wiki/Random_forest) and [Gradient Boosted Trees](https://en.wikipedia.org/wiki/Gradient_boosting#Gradient_tree_boosting) with [xgboost](https://xgboost.readthedocs.io/en/latest/).
+* So we're going to look at different time series data sets and figure out which ones look the most similar. So, if we had little snippets of time series data, the human eye might be able to find similar sets. But feature detection by human labor is costly and slow. ...It'll probably still be computationally intensive.
+* [Cesium](https://github.com/cesium-ml/cesium) is a feature generation library - Mostly just for initial exploration.
+* Are we chopping up our time series into blocks because it is cyclical in nature? Or would we do that anyway?
+  * We used a sliding window, we DID NOT chop it into blocks.
+* We used a machine learning method on a problem that had very little data. This was not a good choice.
+* The important lessons here were supposed to be:
+  1. Chop up your time series data to get more data.
+  2. If you don't have enough data, machine learning is the wrong approach.
+
 
 ### Machine Learning - Clustering
 
 * TODO
 
+
 ### Deep Learning - Electric Use
 
 * TODO
+
 
 ### Deep Learning - Stocks
 
