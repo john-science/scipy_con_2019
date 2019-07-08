@@ -6,12 +6,13 @@ I signed up for four tutorials:
 
 ## Monday, 8AM (Room 203) Modern Time Series Analysis
 
-There was no GitHub for that session, so I am doing it here.
+There was no GitHub for that session, so I am doing it [here](https://github.com/theJollySin/scipy_con_2019/tree/master/modern_time_series_analysis).
 
 
 ## Monday 1PM (Room 203) Bayesian Data Science: Probabilistic Programming
 
-https://github.com/ericmjl/bayesian-stats-modelling-tutorial
+* [My fork of their GitHub](https://github.com/theJollySin/bayesian-stats-modelling-tutorial)
+
 
 ## Tuesday 8AM (Room 106) RAPIDS: Open GPU Data Science
 
