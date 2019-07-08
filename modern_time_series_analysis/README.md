@@ -57,15 +57,20 @@ Don't expect anything exciting here.  These are literally just my notes
 
 ### Machine Learning - Clustering
 
-* TODO
+* [Dynamic Time Warping](https://en.wikipedia.org/wiki/Dynamic_time_warping)
+* [Here](https://github.com/wannesm/dtaidistance) is one little library for DTW
 
 
 ### Deep Learning - Electric Use
 
-* TODO
+* Typically if you want to put time series data into a neural network, you use [RNN](https://en.wikipedia.org/wiki/Recurrent_neural_network).
+* Research later: [GRU vs LSTM](https://datascience.stackexchange.com/questions/14581/when-to-use-gru-over-lstm)
+* You can also use a [CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+* CNNs might be a little better for classification than prediction, compared to RNN
+* This example finally uses parallel time series signals to be processed together; a *MUCH* more interesting problem.
 
 
 ### Deep Learning - Stocks
 
-* TODO
+* Do this on your own later.
 
