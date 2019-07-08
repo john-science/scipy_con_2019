@@ -1,0 +1,26 @@
+[
+    {
+        "scenarios": {
+            "drop": [0.2],            
+            "batch-n": [128, 256],
+            "lr": [0.0001],
+            "n-epochs":[10],
+            "model": [ "simple_lstnet_mode",  "lstnet_mode", "rnn_model", "cnn_model", "fc_model"],
+            "data_src": [
+                "electricity.txt", 
+                "electricity.diff.txt", 
+            ],
+            "win": [128, 64,],
+            "seasonal_period": [24]
+        },
+
+        "drop": "$",
+        "win": "$",
+        "batch-n": "$",
+        "lr": "$",
+        "n-epochs": "$",
+        "data-file": "/data/${data_src}",
+        "save-dir": "${model}_${lr}_${batch-n}_${win}_${drop}/${data_src}"
+    },
+
+]
