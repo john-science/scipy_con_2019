@@ -6,6 +6,15 @@ Okay, I wanted to streamline this.  So you can just use this repo:
 
     pip install -r requirements.txt
 
+OR, since this entire tutorial is run from Jupyter notebooks, you probably want to install your requirements there:
+
+```shell
+$ which jupyter
+/home/my_user_name/stuff/bin/jupyter
+$ /home/my_user_name/stuff/bin/pip install -r requirements.txt
+$ cd /full/path/to/modern_time_series_analysis/
+$ jupyter notebook
+```
 
 ## Syllabus
 
