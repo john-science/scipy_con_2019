@@ -8,5 +8,5 @@
 * The old solution: Hadoop, but that had too much IO. So people moved to Spark.
 * RAPIDS is Nvidia's GPU architecture
 * RAPIDS uses Apache Arrow (which tries to standardize the storage of columnar data in memory)
-
+* cuDF has nearly identical syntax to Pandas DataFrames
 
