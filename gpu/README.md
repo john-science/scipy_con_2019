@@ -4,4 +4,9 @@
 
 ## Notes
 
+* Fun! They provide a cloud instance for everyone in the room, so we can play with a machine with sufficient GPU power.
+* The old solution: Hadoop, but that had too much IO. So people moved to Spark.
+* RAPIDS is Nvidia's GPU architecture
+* RAPIDS uses Apache Arrow (which tries to standardize the storage of columnar data in memory)
+
 
