@@ -16,4 +16,5 @@
    * TODO: Whoops. At work, are we not converting our strings in pd.DataFrames to NumPy string arrays?
 * [RAPIDS docs](https://docs.rapids.ai/)
 * [Play around with RAPIDS](https://rapids.ai/start.html)
+* [cuDF GitHub](https://github.com/rapidsai/cudf)
 
