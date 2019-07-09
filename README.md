@@ -23,7 +23,7 @@ I signed up for four tutorials:
 
 ## Tuesday 8AM (Room 106) RAPIDS: Open GPU Data Science
 
-* Here is my version of their tutorial, since it was not available online.
+* [Here](https://github.com/theJollySin/gpu/README.md) is my version of their tutorial, since it was not available online.
 
 
 ## Tuesday 1PM (Room 104) Escape from Auto-manual Testing with Hypothesis!
