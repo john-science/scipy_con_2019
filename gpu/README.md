@@ -17,4 +17,5 @@
 * [RAPIDS docs](https://docs.rapids.ai/)
 * [Play around with RAPIDS](https://rapids.ai/start.html)
 * [cuDF GitHub](https://github.com/rapidsai/cudf)
+* [cupy](https://cupy.chainer.org/) is a replacement for NumPy, but in the GPU
 
