@@ -15,7 +15,7 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 Markdown==3.1.1
 mxnet==1.4.1
-numpy==1.14.6
+numpy==1.21.0
 pandas==0.24.2
 patsy==0.5.1
 protobuf==3.8.0
