@@ -1,7 +1,7 @@
 absl-py==0.7.1
 astor==0.8.0
 cesium==0.9.9
-certifi==2023.7.22
+certifi==2024.7.4
 chardet==3.0.4
 hmmlearn==0.2.2
 gast==0.2.2
