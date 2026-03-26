@@ -21,7 +21,7 @@ patsy==0.5.1
 protobuf==5.29.6
 python-dateutil==2.8.0
 pytz==2019.1
-requests==2.32.4
+requests==2.33.0
 scikit-learn==1.5.0
 scipy==1.10.0
 six==1.12.0
